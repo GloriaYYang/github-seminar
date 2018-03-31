@@ -3,6 +3,8 @@
 
 [양예지] (https://github.com/GloriaYYang)
 
+깃허브 프로필 주소를 남겨주세요.
+
 [이수진](https://github.com/sujinleeme) 
 
 [이윤재](https://github.com/leeyunjea) 
@@ -13,6 +15,8 @@
 [Violet Bora Lee](https://github.com/Violet-Bora-Lee)
 [MINJI KIM](https://github.com/min-ji-kim/) 
 [고희경](https://github.com/heekyong/)
+[김다정](https://github.com/jenna1k)
+[정주영](https://github.com/jungjuyoung)
 [정주영](https://github.com/jungjuyoung)
 [나라](https://github.com/narahan/)
 
@@ -21,5 +25,3 @@
 [김다빈](https://github.com/pippikim) 
 [이윤재](https://github.com/leeyunjea) 
 
-
-asdfd
