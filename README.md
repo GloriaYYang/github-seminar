@@ -2,7 +2,6 @@
 
 
 [양예지] (https://github.com/GloriaYYang)
-
 깃허브 프로필 주소를 남겨주세요.
 
 [이수진](https://github.com/sujinleeme) 
@@ -24,4 +23,5 @@
 [최애리](https://github.com/chMint07) 
 [김다빈](https://github.com/pippikim) 
 [이윤재](https://github.com/leeyunjea) 
+[유정이](https://github.com/JUNGEEYOU)
 
