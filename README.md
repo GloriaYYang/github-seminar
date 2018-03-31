@@ -9,5 +9,6 @@
 
 
 
+[김혜진](https://github.com/hyejinkim1005)
 [Violet Bora Lee](https://github.com/Violet-Bora-Lee)
 [고희경](https://github.com/heekyong/)
